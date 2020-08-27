@@ -9,7 +9,7 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hugolima03/Proffy">
   <img alt="GitHub" src="https://img.shields.io/github/license/HigorSnt/proffy?style=flat-square"> 
-  <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1?style=flat-square"><br/>
+  <img alt="" src="https://img.shields.io/github/languages/count/hugolima03/Proffy">
 </p>
 <p align="center">
   <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -19,10 +19,12 @@
 </p>
 
 <p align="center">
-  <img alt="design do projeto" width="650px" src="reademefiles/hero.png" />
+  <img alt="design do projeto" width="650px" src="https://github.com/HigorSnt/proffy/raw/master/.github/design.png" />
 <p>
 
-## Sobre
+## 🔖 Sobre
+
+<hr>
 
 O **Proffy** é uma aplicação Web e Mobile feita para auxiliar na conexão entre os alunos e os professores. Logo, esta aplicação oferece aos professores a possibilidade de registrar aulas, podendo adicionar informações como a disciplina, o custo e horário e aos alunos a possibilidade de buscar pelas aulas cadastradas.
   
