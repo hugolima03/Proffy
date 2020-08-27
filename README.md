@@ -7,9 +7,9 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hugolima03/Proffy">
+  <img alt="Language percentage" src="https://img.shields.io/github/languages/top/hugolima03/Proffy">
   <img alt="GitHub" src="https://img.shields.io/github/license/HigorSnt/proffy?style=flat-square"> 
-  <img alt="" src="https://img.shields.io/github/languages/count/hugolima03/Proffy">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hugolima03/Proffy">
 </p>
 <p align="center">
   <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -22,7 +22,7 @@
   <img alt="design do projeto" width="650px" src="https://github.com/HigorSnt/proffy/raw/master/.github/design.png" />
 <p>
 
-## 🔖 Sobre
+## :bookmark: Sobre
 
 <hr>
 
