@@ -32,10 +32,10 @@ html, body {
 }
 
 body {
-  background-color: var(--color-primary);
+  background-color: var(--color-background);
   display: flex;
-  align-items: center;
   justify-content: center;
+  align-items: center;
 }
 
 body,
@@ -45,7 +45,7 @@ textarea {
   font-weight: 500;
   font-family: 'Poppins';
   font-size: 1.6rem;
-  color: var(--color-title-in-primary);
+  color: var(--color-text-base);
 }
 
 #container {
