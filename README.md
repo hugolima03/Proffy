@@ -14,15 +14,14 @@
 <p align="center">
   <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#boom-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#boom-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
   <img alt="design do projeto" width="650px" src="https://github.com/HigorSnt/proffy/raw/master/.github/design.png" />
 <p>
 
-## :bookmark: Sobre
+## :bookmark: 🔖 Sobre
 
 
 
@@ -31,3 +30,13 @@ O **Proffy** é uma aplicação Web e Mobile feita para auxiliar na conexão ent
 Este projeto foi idealizado pensando no **6 de agosto**, onde se comemora o **Dia Nacional dos Profissionais da Educação**.
   
 Essa aplicação foi realizada durante a Next **Level Week #2**, projeto da [Rocketseat](https://rocketseat.com.br/).
+
+## :rocket: 🚀 Tecnologias
+
+- HTML
+- CSS
+- Javascript
+
+## :boom: 💥 Como Executar  
+
+Este projeto está hospedado na Vercel. [Clique aqui](https://proffy-eosin-ten.vercel.app/)
