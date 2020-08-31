@@ -10,34 +10,63 @@
   <link rel="shortcut icon" href="src/images/favicon.png" type="image/x-icon">
 
   <link rel="stylesheet" href="styles/main.css">
-  <link rel="stylesheet" href="styles/partials/page-landing.css">
+  <link rel="stylesheet" href="styles/partials/page-study.css">
   <title>Proffy | Sua plataforma de estudos online</title>
 </head>
 
-<body id="page-landing">
+<body id="page-study">
 
   <div id="container">
-    <div class="logo-container">
-      <img src="src/images/logo.svg" alt="Proffy">
-      <h2>Sua plataforma de estudos online</h2>
-    </div>
-    <img class="hero-image" src="src/images/landing.svg" alt="Plataforma de estudos">
+    <header class="page-header">
+      <div class="top-bar-container">
+        <a href="index.html">
+          <img src="src/images/icons/back.svg" alt="Voltar">
+        </a>
+        <img src="src/images/logo.svg" alt="Proffy">
+      </div>
 
-    <div class="buttons-container">
-      <a class="study" href="/study.html">
-        <img src="src/images/icons/study.svg" alt="Estudar">
-        Estudar
-      </a>
-      <a class="give-classes" href="/give-classes.html">
-        <img src="src/images/icons/give-classes.svg" alt="Dar aulas">
-        Dar aulas
-      </a>
-
-    </div>
-    <p class="total-connections">
-      Total de 200 conexões já realizadas
-      <img src="src/images/icons/purple-heart.svg" alt="Coração roxo">
-    </p>
+      <div class="header-content">
+        <strong>Essses são os Proffys disponíveis</strong>
+        <form action="#" id="search-teachers">
+          <div class="select-block">
+            <label for="subject">Matéria</label>
+            <select name="subject" id="subject">
+              <option value="" disabled="" hidden="">Selecione uma opção</option>
+              <option value="1">Artes</option>
+              <option value="2">Biologia</option>
+              <option value="3">Ciências</option>
+              <option value="4">Educação Física</option>
+              <option value="5">Física</option>
+              <option value="6">Geografia</option>
+              <option value="7">História</option>
+              <option value="8">Matemática</option>
+              <option value="9">Português</option>
+              <option value="10">Química</option>
+            </select>
+          </div>
+          <div class="select-block">
+            <label for="weekday">Dia da semana</label>
+            <select name="weekday" id="weekday">
+              <option value="" disabled="" hidden="">Selecione uma opção</option>
+              <option value="0">Domingo</option>
+              <option value="1">Segunda-feira</option>
+              <option value="2">Terça-feira</option>
+              <option value="3">Quarta-feira</option>
+              <option value="4">Quinta-feira</option>
+              <option value="5">Sexta-feira</option>
+              <option value="6">Sábado</option>
+            </select>
+          </div>
+          <div class="input-block">
+            <label for="time">Hora</label>
+            <input name="time" id="time" type="time">
+          </div>
+          <button type="submit">
+            Filtrar
+          </button>
+        </form>
+      </div>
+    </header>
   </div>
 
 </body>
