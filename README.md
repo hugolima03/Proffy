@@ -21,7 +21,7 @@
   <img alt="design do projeto" width="650px" src="https://github.com/HigorSnt/proffy/raw/master/.github/design.png" />
 <p>
 
-## :bookmark: 🔖 Sobre
+## :bookmark: Sobre
 
 
 
@@ -31,12 +31,12 @@ Este projeto foi idealizado pensando no **6 de agosto**, onde se comemora o **Di
   
 Essa aplicação foi realizada durante a Next **Level Week #2**, projeto da [Rocketseat](https://rocketseat.com.br/).
 
-## :rocket: 🚀 Tecnologias
+## :rocket: Tecnologias
 
 - HTML
 - CSS
 - Javascript
 
-## :boom: 💥 Como Executar  
+## :boom: Como Executar  
 
 Este projeto está hospedado na Vercel. [Clique aqui](https://proffy-eosin-ten.vercel.app/)
