@@ -34,8 +34,8 @@ html, body {
 body {
   background-color: var(--color-background);
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
 }
 
 body,
@@ -51,6 +51,5 @@ textarea {
 #container {
   width: 90vw;
   max-width: 700px;
-  height: 100vh;
 }
 
