@@ -46,7 +46,7 @@
   font: 700 1.6rem Archivo;
 
   cursor: pointer;
-
+  outline: none;
   transition: 0.2s;
 }
 
