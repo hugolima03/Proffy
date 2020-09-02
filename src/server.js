@@ -28,7 +28,8 @@ function pageLanding(req, res) {
 }
 
 function pageStudy(req, res) {
-  return res.render("study.html")
+  const filters = req.query
+  return res.render("study.html", { proffys , filters})
 }
 
 function pageGiveClasses (req, res) {
