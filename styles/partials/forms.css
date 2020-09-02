@@ -45,3 +45,7 @@
   right: 1.6rem;
   bottom: 0px;
 }
+
+.textarea-block:focus-within::after{
+  bottom: 8px;
+}
