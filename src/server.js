@@ -23,13 +23,26 @@ const proffys = [
   }
 ]
 
+const subjects = [
+  "Artes",
+  "Biologia",
+  "Ciências",
+  "Educação física",
+  "Física",
+  "Geografia",
+  "História",
+  "Matemática",
+  "Português",
+  "Química",
+]
+
 function pageLanding(req, res) {
   return res.render("index.html")
 }
 
 function pageStudy(req, res) {
   const filters = req.query
-  return res.render("study.html", { proffys , filters})
+  return res.render("study.html", { proffys , filters, subjects })
 }
 
 function pageGiveClasses (req, res) {
