@@ -1,7 +1,7 @@
 {
   "name": "Proffy",
   "version": "1.0.0",
-  "description": "<h1 align=\"center\">     <img alt=\"Proffy\" src=\"https://github.com/HigorSnt/proffy/raw/master/.github/logo.svg\" height=\"100px\" />     <br>Next Level Week #2<br/>     HTML | CSS | Javascript </h1>",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,10 +11,13 @@
     "url": "git+https://github.com/hugolima03/Proffy.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "https://github.com/hugolima03",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hugolima03/Proffy/issues"
   },
-  "homepage": "https://github.com/hugolima03/Proffy#readme"
+  "homepage": "https://github.com/hugolima03/Proffy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
