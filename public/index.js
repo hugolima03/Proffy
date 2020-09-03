@@ -47,6 +47,7 @@ const weekdays = [
   "Sábado",
 ]
 
+
 //funcionalidades
 
 function getSubject(subjectNumber) {
@@ -76,6 +77,7 @@ function pageGiveClasses (req, res) {
     return res.redirect("/study");
   }
 
+  
   return res.render("give-classes.html", {subjects, weekdays})
 }
 

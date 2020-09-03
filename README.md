@@ -3,7 +3,7 @@
 <h1 align="center">
     <img alt="Proffy" src="https://github.com/HigorSnt/proffy/raw/master/.github/logo.svg" height="100px" />
     <br>Next Level Week #2<br/>
-    HTML | CSS | Javascript | NodeJS | SQlite
+    HTML | CSS | Javascript
 </h1>
 
 <p align="center">
@@ -36,8 +36,6 @@ Essa aplicação foi realizada durante a Next **Level Week #2**, projeto da [Roc
 - HTML
 - CSS
 - Javascript
-- NodeJS
-- SQlite
 
 ## :boom: Como Executar  
 
