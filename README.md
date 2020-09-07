@@ -40,6 +40,28 @@ Essa aplicação foi realizada durante a Next **Level Week #2**, projeto da [Roc
 - SQlite
 - Express
 
-## :boom: Como Executar  
+## :boom: Como Executar
 
-Este projeto está hospedado na Vercel. [Clique aqui](https://proffy-eosin-ten.vercel.app/)
+- ### **Pré-requisitos**
+
+  - É **necessário** possuir o **[Node.js](https://nodejs.org/en/)** instalado no computador
+  - É **necessário** possuir o **[Git](https://git-scm.com/)** instalado e configurado no computador
+  - Também, é **preciso** ter um gerenciador de pacotes seja o **[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**.
+
+1. Faça um clone do repositório:
+
+```sh
+  $ git clone https://github.com/hugolima03/Proffy
+```
+
+2. Executando a Aplicação:
+
+```sh
+  #Acesse via terminal o local do projeto
+  #Script que roda o servidor e banco de dados 
+  $ npm run dev
+  #Acesse pelo browse  o localserver na porta 5500
+  #Ex: http://127.0.0.1:5500/
+  #Aproveite a aplicação
+```
+
